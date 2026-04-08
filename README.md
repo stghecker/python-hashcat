@@ -1,2 +1,2 @@
 # python-hashcat
-This is a hashcat-based python script.
+A password cracker python script, based in MD5 encryption.
