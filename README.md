@@ -4,13 +4,13 @@ A simple and educational Python tool for cracking MD5 hashes using wordlists.
 
 ---
 
-## 📌 Description
+## Description
 
 This project demonstrates how hashed passwords (specifically MD5) can be cracked using dictionary attacks. It is designed for learning purposes and basic experimentation with password security concepts.
 
 ---
 
-## ⚙️ Features
+## Features
 
 * Crack MD5 hashes using a wordlist
 * Fast lookup using standard Python libraries
@@ -19,7 +19,7 @@ This project demonstrates how hashed passwords (specifically MD5) can be cracked
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the repository
 
@@ -37,7 +37,7 @@ Make sure the file is extracted and placed in the same directory as the script.
 
 ---
 
-## ▶️ Usage
+## Usage
 
 ```bash
 python python-hashcat-main.py <hash> <wordlist>
@@ -51,7 +51,7 @@ python python-hashcat-main.py 5f4dcc3b5aa765d61d8327deb882cf99 rockyou.txt
 
 ---
 
-## 🧠 How it works
+## How it works
 
 The script:
 
@@ -71,7 +71,7 @@ Do NOT use this tool on systems, networks, or data that you do not own or have e
 
 ---
 
-## 🛠️ Requirements
+## Requirements
 
 * Python 3.x
 
@@ -79,7 +79,7 @@ Do NOT use this tool on systems, networks, or data that you do not own or have e
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 md5-password-cracker/
@@ -87,23 +87,3 @@ md5-password-cracker/
 │── README.md
 ```
 
----
-
-## 💡 Future Improvements
-
-* Support for multiple hash types (SHA-1, SHA-256)
-* Add GPU acceleration (advanced)
-* Progress indicator / statistics
-* GUI version
-
----
-
-## 👤 Author
-
-Your Name
-
----
-
-## ⭐ Contributing
-
-Feel free to fork this project and improve it!
