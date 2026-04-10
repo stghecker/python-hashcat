@@ -30,10 +30,10 @@ cd md5-password-cracker
 
 ### 2. Download a wordlist
 
-You can use a common wordlist such as rockyou.txt:
-https://github.com/zacheller/rockyou
+You can use a wordlists from *python-hashcat/Wordlists/**
+**OR** any other wordlist do you prefer
 
-Make sure the file is extracted and placed in the same directory as the script.
+*Make sure the file you downloaded is extracted and placed in the same directory as the script.
 
 ---
 
