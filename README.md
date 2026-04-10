@@ -24,8 +24,8 @@ This project demonstrates how hashed passwords (specifically MD5) can be cracked
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/md5-password-cracker.git
-cd md5-password-cracker
+git clone https://github.com/stghecker/python-hashcat.git
+cd pyhton-hashcat
 ```
 
 ### 2. Download a wordlist
