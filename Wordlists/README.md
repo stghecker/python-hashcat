@@ -22,7 +22,7 @@ Hashcat takes each entry and:
 1. Applies the same hashing algorithm used by the target system (e.g., MD5, SHA-256).
 2. Compares the result with the given hash.
 3. If it matches → password is found.
-4. Why wordlists exist
+## Why wordlists exist
 
 Most real-world passwords are not random. They often come from:
 
