@@ -5,7 +5,7 @@
 # What are Wordlists?
 In Hashcat, a wordlist is simply a text file that contains a large list of candidate passwords (words, phrases, or patterns) that the tool will try when attempting to match a hash.
 
-Core idea
+**Core idea:**
 
 A wordlist = “guess database” for passwords.
 
