@@ -42,4 +42,4 @@ Types of wordlists:
 
 **Without wordlists, password cracking would be mostly brute force (trying everything), which is extremely slow. Wordlists make it smarter guessing instead of blind guessing.**
 
-Find out more in https://www.kali.org/tools/wordlists
+More info in https://www.kali.org/tools/wordlists
