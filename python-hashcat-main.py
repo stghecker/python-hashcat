@@ -2,7 +2,7 @@ import hashlib
 
 target_hash = input("Paste your MD5 hashed 32 character password here:")
 
-with open("rockyou.txt", "r", encoding="latin-1") as f:
+with open("<YOUR_WORDLIST_FILE_NAME>", "r", encoding="latin-1") as f:
     for line in f:
         word = line.strip()
         hashed = hashlib.md5(word.encode()).hexdigest()
